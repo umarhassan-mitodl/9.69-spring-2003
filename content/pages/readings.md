@@ -3,6 +3,8 @@ content_type: page
 description: The readings in this section are the foundation of this course. Where
   available, journal article abstracts from PubMed (an online database providing access
   to citations from biomedical literature) are included.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ title: Readings
 uid: 71c8fbd7-1ac6-7f9b-e0fc-ef04fbde3b1f
 ---
 
-The readings listed below are the foundation of this course. Where available, journal article abstracts from {{% resource_link "7485eee8-6be5-4b7d-993c-af8ed0e796fb" "PubMed" %}} (an online database providing access to citations from biomedical literature) are included.
+The readings listed below are the foundation of this course. Where available, journal article abstracts from [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed) (an online database providing access to citations from biomedical literature) are included.
 
 Debate
 ------
@@ -39,7 +41,7 @@ Big Debates in Cognitive Science
 
 Dennett, D. "The Logical Geography of Computational Approaches to the Cognitive Sciences." In _Brainstorms_.
 
-Pinker, S. "{{% resource_link "03f11a7a-fa9d-426c-bb67-a073ff3b44dd" "The Rules of Language" %}}." _Science_ 253(5019) (Aug 2, 1991): 530-5.
+Pinker, S. "[The Rules of Language](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=1857983)." _Science_ 253(5019) (Aug 2, 1991): 530-5.
 
 > _PubMed abstract:_ Language and cognition have been explained as the products of a homogeneous associative memory structure or alternatively, of a set of genetically determined computational modules in which rules manipulate symbolic representations. Intensive study of one phenomenon of English grammar and how it is processed and acquired suggest that both theories are partly right. Regular verbs (walk-walked) are computed by a suffixation rule in a neural system for grammatical processing; irregular verbs (run-ran) are retrieved from an associative memory.
 
@@ -50,7 +52,7 @@ Cognitive Architectures
 
 Anderson, J. R., and L. J. Schooler. "Reflections of the Environment in Memory." _Psychological Science_ 2 (1991): 396-408.
 
-Chater, N., and M. Oaksford. "{{% resource_link "9c23eb89-5996-4694-86a0-7b18994485e1" "Ten Years of the Rational Analysis of Cognition" %}}." _Trends in Cognitive Science_ 3, 57-65.
+Chater, N., and M. Oaksford. "[Ten Years of the Rational Analysis of Cognition](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=10234228)." _Trends in Cognitive Science_ 3, 57-65.
 
 > _PubMed abstract:_ Rational analysis is an empirical program that attempts to explain the function and purpose of cognitive processes. This article looks back on a decade of research outlining the rational analysis methodology and how the approach relates to other work in cognitive science. We illustrate rational analysis by considering how it has been applied to memory and reasoning. From the perspective of traditional cognitive science, the cognitive system can appear to be a rather arbitrary assortment of mechanisms with equally arbitrary limitations. In contrast, rational analysis views cognition as intricately adapted to its environment and to the problems it faces.
 
@@ -66,7 +68,7 @@ Marr, D. Chap. 1 in _Vision_: _A Computational Investigation into the Human Repr
 Recitation East Coast vs. West Coast
 ------------------------------------
 
-Fodor, J., and Z. Pylyshyn. "{{% resource_link "a50e9b9b-ba42-4dd4-8f63-913956575cd1" "Connectionism and Cognitive Architecture" %}}." _Cognition_ 28 (1988): 3-71. (Optional)
+Fodor, J., and Z. Pylyshyn. "[Connectionism and Cognitive Architecture](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2450716)." _Cognition_ 28 (1988): 3-71. (Optional)
 
 Newell. _Unified Theories of Cognition_. Cambridge, MA: Harvard University Press, 1990, pp. 17-36. (Optional) (Symbolic Models)
 
@@ -95,7 +97,7 @@ Wittgenstein. "_Philosophical Investigations_." Chap. 6 in _Concepts: Core Readi
 Mental Representation II
 ------------------------
 
-Barsalou, Lawrence W. "{{% resource_link "764a3913-f8ae-4de1-82d9-cb04952010dc" "Perceptual Symbol Systems" %}}. " In _Behavioral and Brain Sciences_. 22, 4, pp. 577-660.
+Barsalou, Lawrence W. "[Perceptual Symbol Systems](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11301525). " In _Behavioral and Brain Sciences_. 22, 4, pp. 577-660.
 
 > _PubMed abstract:_ Prior to the twentieth century, theories of knowledge were inherently perceptual. Since then, developments in logic, statistics, and programming languages have inspired amodal theories that rest on principles fundamentally different from those underlying perception. In addition, perceptual approaches have become widely viewed as untenable because they are assumed to implement recording systems, not conceptual systems. A perceptual theory of knowledge is developed here in the context of current cognitive science and neuroscience. During perceptual experience, association areas in the brain capture bottom-up patterns of activation in sensory-motor areas. Later, in a top-down manner, association areas partially reactivate sensory-motor areas to implement perceptual symbols. The storage and reactivation of perceptual symbols operates at the level of perceptual components--not at the level of holistic perceptual experiences. Through the use of selective attention, schematic representations of perceptual components are extracted from experience and stored in memory (e.g., individual memories of green, purr, hot). As memories of the same component become organized around a common frame, they implement a simulator that produces limitless simulations of the component (e.g., simulations of purr). Not only do such simulators develop for aspects of sensory experience, they also develop for aspects of proprioception (e.g., lift, run) and introspection (e.g., compare, memory, happy, hungry). Once established, these simulators implement a basic conceptual system that represents types, supports categorization, and produces categorical inferences. These simulators further support productivity, propositions, and abstract concepts, thereby implementing a fully functional conceptual system. Productivity results from integrating simulators combinatorially and recursively to produce complex simulations. Propositions result from binding simulators to perceived individuals to represent type-token relations. Abstract concepts are grounded in complex simulations of combined physical and introspective events. Thus, a perceptual theory of knowledge can implement a fully functional conceptual system while avoiding problems associated with amodal symbol systems. Implications for cognition, neuroscience, evolution, development, and artificial intelligence are explored.
 
@@ -137,11 +139,11 @@ Mill, J. S. _A System of Logic_. 1843. Excerpt. (Optional)
 
 Shepard, R. N. "Multidimensional Scaling, Clustering, and Tree-Fitting." _Science_ 210 (1980): 390-398. (Optional--just refresh your memory from Lera's lecture)
 
-———. "{{% resource_link "4be295d7-ddb6-411f-a45b-fae8cc208bca" "Towards a Universal Theory of Generalization for Psychological Science" %}}." _Science_ 237 (1987): 1317-1323.
+———. "[Towards a Universal Theory of Generalization for Psychological Science](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=3629243)." _Science_ 237 (1987): 1317-1323.
 
 > _PubMed abstract:_ A psychological space is established for any set of stimuli by determining metric distances between the stimuli such that the probability that a response learned to any stimulus will generalize to any other is an invariant monotonic function of the distance between them. To a good approximation, this probability of generalization (i) decays exponentially with this distance, and (ii) does so in accordance with one of two metrics, depending on the relation between the dimensions along which the stimuli vary. These empirical regularities are mathematically derivable from universal principles of natural kinds and probabilistic geometry that may, through evolutionary internalization, tend to govern the behaviors of all sentient organisms.
 
-Tenenbaum, J. B., and T. L. Griffiths. "{{% resource_link "4b6148ec-d355-4840-bf33-39f241f37881" "Generalization, Similarity, and Bayesian Inference" %}}." _Behavioral and Brain Sciences_ 24(4) (2001).
+Tenenbaum, J. B., and T. L. Griffiths. "[Generalization, Similarity, and Bayesian Inference](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=12048947)." _Behavioral and Brain Sciences_ 24(4) (2001).
 
 > _PubMed abstract:_ Shepard has argued that a universal law should govern generalization across different domains of perception and cognition, as well as across organisms from different species or even different planets. Starting with some basic assumptions about natural kinds, he derived an exponential decay function as the form of the universal generalization gradient, which accords strikingly well with a wide range of empirical data. However, his original formulation applied only to the ideal case of generalization from a single encountered stimulus to a single novel stimulus, and for stimuli that can be represented as points in a continuous metric psychological space. Here we recast Shepard's theory in a more general Bayesian framework and show how this naturally extends his approach to the more realistic situation of generalizing from multiple consequential stimuli with arbitrary representational structure. Our framework also subsumes a version of Tversky's set-theoretic model of similarity, which is conventionally thought of as the primary alternative to Shepard's continuous metric space model of similarity and generalization. This unification allows us not only to draw deep parallels between the set-theoretic and spatial approaches, but also to significantly advance the explanatory power of set-theoretic models
 
@@ -152,7 +154,7 @@ Tversky, A. "Features of Similarity." _Psychological Review_ 84 (1977): 327-352.
 Association & Categorization
 ----------------------------
 
-Gluck, M., and G. Bower. "{{% resource_link "e0d59c04-0cfd-4c81-9dc6-5d55e5a6df2a" "From Conditioning to Category Learning: An Adaptive Network Model" %}}." _Journal of Experimental Psychology: General_ 8 (1988): 37-50.
+Gluck, M., and G. Bower. "[From Conditioning to Category Learning: An Adaptive Network Model](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2971760)." _Journal of Experimental Psychology: General_ 8 (1988): 37-50.
 
 > _PubMed abstract:_ We used adaptive network theory to extend the Rescorla-Wagner (1972) least mean squares (LMS) model of associative learning to phenomena of human learning and judgment. In three experiments subjects learned to categorize hypothetical patients with particular symptom patterns as having certain diseases. When one disease is far more likely than another, the model predicts that subjects will substantially overestimate the diagnosticity of the more valid symptom for the rare disease. The results of Experiments 1 and 2 provide clear support for this prediction in contradistinction to predictions from probability matching, exemplar retrieval, or simple prototype learning models. Experiment 3 contrasted the adaptive network model with one predicting pattern-probability matching when patients always had four symptoms (chosen from four opponent pairs) rather than the presence or absence of each of four symptoms, as in Experiment 1. The results again support the Rescorla-Wagner LMS learning rule as embedded within an adaptive network model.
 
@@ -190,11 +192,11 @@ Glymour, C. "Learning Causes: Psychological Explanations of Causal Explanation."
 
 Hewstone, M. _Causal_ _Attribution: From Cognitive Processes to Collective Beliefs_. Blackwell. Excerpt.
 
-Scholl, B. J., and P. Tremoulet. "{{% resource_link "67eda23a-6fbd-4d19-8ca2-82f638426f8f" "Perceptual Causality and Animacy" %}}." _Trends in Cognitive Sciences_ 4(8) (2000): 299-309.
+Scholl, B. J., and P. Tremoulet. "[Perceptual Causality and Animacy](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=10904254)." _Trends in Cognitive Sciences_ 4(8) (2000): 299-309.
 
 > _PubMed abstract:_ Certain simple visual displays consisting of moving 2-D geometric shapes can give rise to percepts with high-level properties such as causality and animacy. This article reviews recent research on such phenomena, which began with the classic work of Michotte and of Heider and Simmel. The importance of such phenomena stems in part from the fact that these interpretations seem to be largely perceptual in nature - to be fairly fast, automatic, irresistible and highly stimulus driven - despite the fact that they involve impressions typically associated with higher-level cognitive processing. This research suggests that just as the visual system works to recover the physical structure of the world by inferring properties such as 3-D shape, so too does it work to recover the causal and social structure of the world by inferring properties such as causality and animacy.
 
-Shanks, D. R. "{{% resource_link "773ca998-ec0d-4a4c-be92-3d7a9d458ebd" "Is Human Learning Rational?" %}}" _The Quarterly Journal of Experimental Psychology_ 48A (2) (1995): 257-279.
+Shanks, D. R. "[Is Human Learning Rational?](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=7610267)" _The Quarterly Journal of Experimental Psychology_ 48A (2) (1995): 257-279.
 
 > _PubMed abstract:_ We can predict and control events in the world via associative learning. Such learning is rational if we come to believe that an associative relationship exists between a pair of events only when it truly does. The statistical metric delta P, the difference between the probability of an outcome event in the presence of the predictor and its probability in the absence of the predictor tells us when and to what extent events are indeed related. Contrary to what is often claimed, humans' associative judgements compare very favourably with the delta P metric, even in situations where multiple predictive cues are in competition for association with the outcome. How do humans achieve this judgmental accuracy? I argue that it is not via the application of an explicit mental version of the delta P rule. Instead, accurate judgements are an emergent property of an associationist learning process of the sort that has become common in adaptive network models of cognition. Such an associationist mechanism is the "means" to a normative or statistical "end".
 
@@ -214,7 +216,7 @@ DISCUSSION on Rationality & Symbolic Reasoning
 
 Ahn, W-K., and L. M. Graham. "The Impact of Necessity and Sufficiency in the Wason Four-Card Selection Task." _Psychological Science_ 10 (1999): 237-242.
 
-Cheng, P. W., and K. J. Holyoak. "{{% resource_link "f6a68f29-a574-452a-a6f3-638647ace3e0" "On the Natural Selection of Reasoning Theories" %}}." _Cognition_ 33 (1989): 285-313.
+Cheng, P. W., and K. J. Holyoak. "[On the Natural Selection of Reasoning Theories](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=2605884)." _Cognition_ 33 (1989): 285-313.
 
 Cosmides, L., and J. Tooby. "Cognitive Adaptations for Social Exchange." In _The Adapted Mind_. Edited by J. Barkow, L. Cosmides, and J. Tooby. Oxford: Oxford University Press, 1989, pp. 163-228.
 
@@ -241,13 +243,13 @@ DISCUSSION on Frontiers of Cognition
 
 Frank, R. H. _Passions Within Reason: The Strategic Role of the Emotions_. New York: Norton, 1988, pp. 1-14, 19-35, 43-63, and 185-211.
 
-Greene, J., and J. Haidt. "{{% resource_link "e73209ad-abc4-4a4e-b3e3-cf66738288a8" "How (and Where) Does Moral Judgment Work?" %}}" _Trends in Cognitive Sciences_ 6, 12 (1 Dec 2002): 517-523.
+Greene, J., and J. Haidt. "[How (and Where) Does Moral Judgment Work?](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=12475712)" _Trends in Cognitive Sciences_ 6, 12 (1 Dec 2002): 517-523.
 
 > _PubMed abstract:_ Moral psychology has long focused on reasoning, but recent evidence suggests that moral judgment is more a matter of emotion and affective intuition than deliberate reasoning. Here we discuss recent findings in psychology and cognitive neuroscience, including several studies that specifically investigate moral judgment. These findings indicate the importance of affect, although they allow that reasoning can play a restricted but significant role in moral judgment. They also point towards a preliminary account of the functional neuroanatomy of moral judgment, according to which many brain areas make important contributions to moral judgment although none is devoted specifically to it.
 
 Miller, G. F., and P. M. Todd. "Mate Choice Turns Cognitive." _Trends in Cognitive Sciences_ 2 (1998): 190-198.
 
-Searle, J. "{{% resource_link "efb3c2e0-c93f-4523-b410-ab6ec29b9bfc" "How to Study Consciousness Scientifically" %}}." _Brain Research Reviews_ 26 (1998): 379-387.
+Searle, J. "[How to Study Consciousness Scientifically](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=9854266)." _Brain Research Reviews_ 26 (1998): 379-387.
 
 > _PubMed abstract:_ The neurosciences have advanced to the point that we can now treat consciousness as a scientific problem like any other. The problem is to explain how brain processes cause consciousness and how consciousness is realized in the brain. Progress is impeded by a number of philosophical mistakes, and the aim of this paper is to remove nine of those mistakes: (i) consciousness cannot be defined; (ii) consciousness is subjective but science is objective; (iii) brain processes cannot explain consciousness; (iv) the problem of 'qualia' should be set aside; (v) consciousness is epiphenomenal; (vi) consciousness has no evolutionary function; (vii) a causal account of consciousness is necessarily dualistic; (viii) science is reductionistic, so a scientific account of consciousness would show it reducible to something else; and (ix) an account of consciousness must be an information processing account.
 
